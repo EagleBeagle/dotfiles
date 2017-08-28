@@ -1,4 +1,3 @@
-" random sor
 set nocompatible              " required
 filetype off                  " required
 
